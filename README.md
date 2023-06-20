@@ -1,0 +1,1 @@
+This is a multi vendor ecommerce build with Django Rest FRamework and React
